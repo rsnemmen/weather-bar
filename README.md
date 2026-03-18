@@ -1,4 +1,4 @@
-# Weather — SwiftBar Plugin
+# Weather — SwiftBar / xbar Plugin
 
 A lightweight SwiftBar/xbar plugin that displays current weather conditions in the macOS menu bar.
 
@@ -58,7 +58,3 @@ When coordinates are left blank, the plugin resolves your location from `ipinfo.
 - `bc` — floating-point math
 
 Both ship with macOS.
-
-## Author
-
-Rodrigo Nemmen da Silva
