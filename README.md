@@ -58,3 +58,11 @@ When coordinates are left blank, the plugin resolves your location from `ipinfo.
 - `bc` — floating-point math
 
 Both ship with macOS.
+
+## More SwiftBar plugins by the author
+
+Small, glanceable menu bar utilities that stay out of the way until you need them:
+
+- **[claude_code](../claude_code/)** — Claude Code usage limits (5h, 7d windows) at a glance.
+- **[copilot-usage-tracker](../copilot-usage-tracker/)** — GitHub Copilot premium request usage and monthly pacing.
+- **[poe_balance](../poe_balance/)** — Poe API balance, percentage, and spending pace vs. the billing cycle.
